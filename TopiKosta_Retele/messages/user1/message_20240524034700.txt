@@ -1,0 +1,3 @@
+Sender: user2
+Subject: test
+Body: test d la user2
